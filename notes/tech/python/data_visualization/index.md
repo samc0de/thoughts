@@ -25,22 +25,22 @@ Till now I've played, very little, with the first 3 only. Some of the notes:
 
 In addition to these, another good (or at least possible) approach is using rendering tools (blender or any open source CAD from below list).
 - Blender. * Links:
-  - [1](https://docs.blender.org/api/2.78b/
-  - [2](https://docs.blender.org/api/blender_python_api_2_77_0/info_overview.html
-  - [3](https://docs.blender.org/manual/en/dev/game_engine/python_api/index.html
-  - [4](https://docs.blender.org/manual/ja/dev/advanced/scripting/introduction.html
-  - [5](https://medium.com/3d-printing-stories/why-i-use-and-recommend-blender-a15a6c80cb05#.mcxziqdql. [Related]: (https://medium.com/these-little-thoughts/am-i-talking-to-the-right-users-691d8bd65b36#.s9g4vlsq5)
+  - [1](https://docs.blender.org/api/2.78b/)
+  - [2](https://docs.blender.org/api/blender_python_api_2_77_0/info_overview.html)
+  - [3](https://docs.blender.org/manual/en/dev/game_engine/python_api/index.html)
+  - [4](https://docs.blender.org/manual/ja/dev/advanced/scripting/introduction.html)
+  - [5](https://medium.com/3d-printing-stories/why-i-use-and-recommend-blender-a15a6c80cb05#.mcxziqdql). [Related]: (https://medium.com/these-little-thoughts/am-i-talking-to-the-right-users-691d8bd65b36#.s9g4vlsq5)
 
-- [FreeCAD] (http://www.freecadweb.org/) *
-- [OpenSCAD] (http://www.openscad.org/) *
-- [Autodesk 360] (http://www.autodesk.com/products/fusion-360/students-teachers-educators). (free for personal/stud/teacher license)(lyk solidworks?)
-- [OnShape] (https://www.onshape.com/) Not free. Runs in browser, weak comps.
-- [Leopard] (http://projectleopard.com/) (autodesk, beta?)
-- [CadQuery] (https://github.com/dcowden/cadquery) *. Can be used as a plugin for FreeCad. Programmatic, 100% is done in programs. Some GUIs exist.
-- [Sketchup make] (http://www.sketchup.com/3Dfor/education-educators) Free [conditionally] ( http://www.sketchup.com/license/c/sketchup).
-- [Antimony] (http://www.mattkeeter.com/projects/antimony/3/) *. See [this](https://github.com/mkeeter/antimony) too. 
-- [ImplicitCad] (http://www.implicitcad.org/)  Also see [this] (http://hackaday.com/2015/05/29/otherworldy-cad-software-hails-from-a-parallel-universe/)
-- [Libre Cad] (http://librecad.org/cms/home.html) * (Free but seems new)
+- [FreeCAD](http://www.freecadweb.org/) *
+- [OpenSCAD](http://www.openscad.org/) *
+- [Autodesk 360](http://www.autodesk.com/products/fusion-360/students-teachers-educators). (free for personal/stud/teacher license)(lyk solidworks?)
+- [OnShape](https://www.onshape.com/) Not free. Runs in browser, weak comps.
+- [Leopard](http://projectleopard.com/) (autodesk, beta?)
+- [CadQuery](https://github.com/dcowden/cadquery)*. Can be used as a plugin for FreeCad. Programmatic, 100% is done in programs. Some GUIs exist.
+- [Sketchup make](http://www.sketchup.com/3Dfor/education-educators) Free [conditionally]( http://www.sketchup.com/license/c/sketchup).
+- [Antimony](http://www.mattkeeter.com/projects/antimony/3/)*. See [this](https://github.com/mkeeter/antimony) too. 
+- [ImplicitCad](http://www.implicitcad.org/). Also see [this](http://hackaday.com/2015/05/29/otherworldy-cad-software-hails-from-a-parallel-universe/)
+- [Libre Cad](http://librecad.org/cms/home.html)* (Free but seems new)
 - meshlab and netfabb seem useful.*
 
 Some of these are extracted from my doc, and in turn from [a reddit discussion] ( https://www.reddit.com/r/3Dprinting/comments/2nnjwg/whats_everyones_favourite_free_cad_software/).
