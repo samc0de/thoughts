@@ -29,7 +29,7 @@ In addition to these, another good (or at least possible) approach is using rend
   - [2](https://docs.blender.org/api/blender_python_api_2_77_0/info_overview.html)
   - [3](https://docs.blender.org/manual/en/dev/game_engine/python_api/index.html)
   - [4](https://docs.blender.org/manual/ja/dev/advanced/scripting/introduction.html)
-  - [5](https://medium.com/3d-printing-stories/why-i-use-and-recommend-blender-a15a6c80cb05#.mcxziqdql). [Related]: (https://medium.com/these-little-thoughts/am-i-talking-to-the-right-users-691d8bd65b36#.s9g4vlsq5)
+  - [5](https://medium.com/3d-printing-stories/why-i-use-and-recommend-blender-a15a6c80cb05#.mcxziqdql). [Related](https://medium.com/these-little-thoughts/am-i-talking-to-the-right-users-691d8bd65b36#.s9g4vlsq5).
 
 - [FreeCAD](http://www.freecadweb.org/) *
 - [OpenSCAD](http://www.openscad.org/) *
