@@ -43,4 +43,4 @@ In addition to these, another good (or at least possible) approach is using rend
 - [Libre Cad](http://librecad.org/cms/home.html)* (Free but seems new)
 - meshlab and netfabb seem useful.*
 
-Some of these are extracted from my doc, and in turn from [a reddit discussion] ( https://www.reddit.com/r/3Dprinting/comments/2nnjwg/whats_everyones_favourite_free_cad_software/).
+Some of these are extracted from my doc, and in turn from [a reddit discussion]( https://www.reddit.com/r/3Dprinting/comments/2nnjwg/whats_everyones_favourite_free_cad_software/).
