@@ -1,13 +1,16 @@
-## Below are the python plotting libraries/toolkits I've found interesting:
+## Data visualization toolkits explored
+
+Below are the python plotting libraries/toolkits I've found interesting:
 
 
-- [Bokeh](https://bokeh.pydata.org/en/latest/) Still v < 1, Good for [contribution](https://bokeh.pydata.org/en/latest/docs/dev_guide.html#devguide)
+- [Bokeh](https://bokeh.pydata.org/en/latest/) Still v < 1, Good for [contribution](https://bokeh.pydata.org/en/latest/docs/dev_guide.html#devguide). [Code](https://github.com/bokeh/bokeh).
 - [Plotly](https://plot.ly/python/)
-- [Mayavi](http://docs.enthought.com/mayavi/mayavi/index.html)
-- [bqplot](https://github.com/bloomberg/bqplot)
-- [pygal](http://pygal.org/en/stable/). [This](https://pythonprogramming.net/pygal-tutorial/) maybe a useful resource to start with.
+- [Mayavi](http://docs.enthought.com/mayavi/mayavi/index.html). [Code](https://github.com/enthought/mayavi)<sup>3</sup>
+- [bqplot](https://github.com/bloomberg/bqplot)<sup>2</sup>
+- [pygal](http://pygal.org/en/stable/). [This](https://pythonprogramming.net/pygal-tutorial/) maybe a useful resource to start with. [Code](https://github.com/Kozea/pygal/tree/7a556a2ef2640b2698480577959d1a9809673ae5).<sup>1</sup>
 - [Altair](https://altair-viz.github.io/)
-- [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) One of the few supporting 3d!
+- [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) One of the few supporting 3d!<sup>1</sup>
+- [vaex](http://vaex.astro.rug.nl/). [Github](https://github.com/maartenbreddels/vaex). By the same guy as ipyvolume.<sup>1</sup>
 
 
 Till now I've played, very little, with the first 3 only. Some of the notes:
@@ -44,3 +47,9 @@ In addition to these, another good (or at least possible) approach is using rend
 - meshlab and netfabb seem useful.*
 
 Some of these are extracted from my doc, and in turn from [a reddit discussion]( https://www.reddit.com/r/3Dprinting/comments/2nnjwg/whats_everyones_favourite_free_cad_software/).
+
+<hr>
+
+1. Code build breaking.
+1. Docs breaking.
+1. Code poor (test) coverage.
