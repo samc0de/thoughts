@@ -11,6 +11,7 @@ Below are the python plotting libraries/toolkits I've found interesting:
 - [Altair](https://altair-viz.github.io/)
 - [ipyvolume](https://ipyvolume.readthedocs.io/en/latest/) One of the few supporting 3d!<sup>1</sup>
 - [vaex](http://vaex.astro.rug.nl/). [Github](https://github.com/maartenbreddels/vaex). By the same guy as ipyvolume.<sup>1</sup>
+- [pythreejs](https://github.com/jovyan/pythreejs) (Yet to explore). Seems generic wrapper for threejs (as opposed to ipyvolume specailizing in data visualization, though that too uses threejs.)
 
 
 Till now I've played, very little, with the first 3 only. Some of the notes:
